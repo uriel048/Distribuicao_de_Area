@@ -9,4 +9,4 @@ Este repositório apresenta uma calculadora de distribuição de área desenvolv
 - Interface intuitiva e fácil de usar.
 - Resultados precisos e rápidos.
 
-Acesso: https://uriel048.github.io/calculadora_area/
+Acesso: https://uriel048.github.io/Distribuicao_de_Area/
