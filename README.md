@@ -5,7 +5,6 @@ Este repositório apresenta uma calculadora de distribuição de área desenvolv
 
 *Funcionalidades:*
 - Cálculo automático de áreas com base em parâmetros fornecidos.
-- Suporte para múltiplas unidades de medida.
 - Interface intuitiva e fácil de usar.
 - Resultados precisos e rápidos.
 
